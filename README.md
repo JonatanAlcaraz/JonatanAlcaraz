@@ -10,7 +10,7 @@ as a team, build trust and learn from others.</h4>
 📫Jonatan.alcaraz9@gmail.com
 
 <p align="left">
-<a href="www.linkedin.com/in/florencia-e-palazzo-dev" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/florencia-e-palazzo-dev" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/jonatanalcaraz" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/jonatanalcaraz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
