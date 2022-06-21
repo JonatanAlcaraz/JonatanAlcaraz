@@ -1,4 +1,4 @@
-# Hi, I’m Jonatan Alcaraz 👨🏻‍💻
+# Hi, I’m Jonatan 👨🏻‍💻
 
 <img src="./img/bannerr.png"/>
 
