@@ -15,7 +15,7 @@ as a team, build trust and learn from others.</h4>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a>
- <a href="https://www.python.org/" target="_blank"> <img src="https://www.python.org/static/community_logos/python-logo.png" alt="python" width="40" height="40"/> </a>
+ <a href="https://www.python.org/" target="_blank"> <img src="https://www.python.org/static/community_logos/python-logo.png" alt="python" height="40"/> </a>
  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://seeklogo.com/vector-logo/217413/django" alt="django" width="40" height="40"/> </a>
 
 <a href="https://www.java.com/es/" target="_blank"> <img src="https://seeklogo.com/vector-logo/158094/java" alt="java" width="40" height="40"/> </a>
