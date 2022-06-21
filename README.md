@@ -30,5 +30,5 @@ as a team, build trust and learn from others.</h4>
 <!-- <a href="https://mochajs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> -->
 <!-- <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"/> </a>-->
 <div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FlorenciaPalazzo&show_icons=true&theme=dark&locale=en&layout=compact" alt="JonatanAlcaraz" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JonatanAlcaraz&show_icons=true&theme=dark&locale=en&layout=compact" alt="JonatanAlcaraz" /></p>
 </br></div></br>
