@@ -7,7 +7,7 @@ I am always willing to continue training in the area that is required. I attach 
 as a team, build trust and learn from others.</h4>
 
 <h3> Contacto:</h3>
-📫florencia.e.palazzo@gmail.com
+📫Jonatan.alcaraz9@gmail.com
 
 <p align="left">
 <a href="www.linkedin.com/in/florencia-e-palazzo-dev" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/florencia-e-palazzo-dev" height="30" width="40" /></a>
@@ -30,5 +30,5 @@ as a team, build trust and learn from others.</h4>
 <!-- <a href="https://mochajs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> -->
 <!-- <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"/> </a>-->
 <div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FlorenciaPalazzo&show_icons=true&theme=dark&locale=en&layout=compact" alt="FlorenciaPalazzo" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FlorenciaPalazzo&show_icons=true&theme=dark&locale=en&layout=compact" alt="JonatanAlcaraz" /></p>
 </br></div></br>
