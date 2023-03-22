@@ -20,15 +20,13 @@
  <a href="https://www.python.org/" target="_blank"> <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="python" height="40"/> </a>
 <a href="https://www.java.com/es/" target="_blank"> <img src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" alt="java" width="90" /> </a>
 <a href="https://go.dev/" target="_blank"> <img src="https://seeklogo.com/images/G/go-logo-046185B647-seeklogo.com.png" alt="golang" width="30" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" alt="react" width="40" height="40"/> </a>
-<a href="https://redux.js.org" target="_blank"> <img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" alt="redux" width="40" height="40"/>
- <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/27804?s=200&v=4" alt="django" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank"> <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" alt="nodejs" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a>
 </p>
+<!--
 </br>
 </br>
 <div>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JonatanAlcaraz&show_icons=true&theme=dark&locale=en" alt="JonatanAlcaraz"/></p>
 </br></div></br>
+-->
