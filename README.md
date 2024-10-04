@@ -16,8 +16,7 @@
  <a href="https://www.python.org/" target="_blank"> <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="python" height="40"/> </a>
 <a href="https://www.java.com/es/" target="_blank"> <img src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" alt="java" width="90" /> </a>
 <a href="https://go.dev/" target="_blank"> <img src="https://seeklogo.com/images/G/go-logo-046185B647-seeklogo.com.png" alt="golang" width="30" height="40"/> </a>
-<a href="https://deno.land/" target="_blank"> <img src="https://deno.land/logo.svg" alt="deno" width="40" height="60"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" alt="react" width="45" height="40"/> </a>
+<a href="https://go.dev/" target="_blank"> <img src="https://docs.nestjs.com/assets/logo-small-gradient.svg" alt="golang" width="50" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a>
 </p>
 <!--
